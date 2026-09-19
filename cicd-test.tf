@@ -1,3 +1,3 @@
 resource "terraform_data" "cicd_test" {
-  input = "terraform-plan-apply-test-v2"
+  input = "terraform-plan-apply-test-v3"
 }
